@@ -19,7 +19,6 @@ public class JavaSweeper extends JFrame {
     private final int ROWS = 9;
     private final int BOMBS = 10;
     public static void main(String[] args) {
-
         new JavaSweeper();
     }
 
